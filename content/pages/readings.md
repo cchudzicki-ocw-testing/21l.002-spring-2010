@@ -7,7 +7,7 @@ title: Readings
 uid: d000c01a-0078-91f9-4efc-1dd5af944076
 ---
 
-Description of readings used in the course. ([PDF]({{< baseurl >}}/resources/mit21l_002s10_read01))
+Description of readings used in the course. ({{< resource_link e0ab94ef-af6e-178d-ffc7-872445c7dd01 "PDF" >}})
 
 Texts
 -----
